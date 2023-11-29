@@ -9,4 +9,4 @@ Voici l'image d'un chat debout :
 
 `Essai 2 : depuis un répertoire local` 
 voici un bout du bureau : 
-[Contribution guidelines for this project](bureau.jpeg)
+[Contribution guidelines for this project](https://github.com/Seristan/-progsys-TP1/blob/main/captures/bureau.jpeg)
